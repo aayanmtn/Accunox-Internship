@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: wisecow:latest
+        image: himsec/wisecow:latest
         ports:
         - containerPort: 4499
         env:
