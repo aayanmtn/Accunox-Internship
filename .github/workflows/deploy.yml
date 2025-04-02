@@ -1,4 +1,4 @@
-name: Wisecow Deployment
+name: Wisecows Deployment
 on:
   push:
     branches:
