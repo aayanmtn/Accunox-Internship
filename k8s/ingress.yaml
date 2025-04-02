@@ -11,7 +11,7 @@ spec:
     - wisecow.example.com
     secretName: wisecow-tls
   rules:
-  - host: wisecow.example.ddns.net
+  - host: wisecow.ddns.net
     http:
       paths:
       - path: /
